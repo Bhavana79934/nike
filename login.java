@@ -4,3 +4,4 @@ class Simple{
     }  
 } 
 public stati
+void main
